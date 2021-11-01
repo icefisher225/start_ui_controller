@@ -1,0 +1,13 @@
+[2021-10-31T21:30:05,354] <launcher> WARN  system - reload system.properties failed: file not found
+[2021-10-31T21:30:05,357] <launcher> WARN  system - reload system.properties.bk failed: file not found
+[2021-10-31T21:30:05,358] <launcher> INFO  system - *** Running for the first time, creating identity ***
+[2021-10-31T21:30:05,359] <launcher> INFO  system - UUID: 3f323b9f-449c-4a1e-902d-bca5e6ace491
+[2021-10-31T21:30:05,359] <launcher> WARN  system - reload system.properties failed: file not found
+[2021-10-31T21:30:05,359] <launcher> WARN  system - reload system.properties.bk failed: file not found
+[2021-10-31T21:30:05,362] <launcher> INFO  system - Reporter UUID: 794bedb9-f21e-4f4d-b0f7-b5f1339db94b
+[2021-10-31T21:30:06,118] <launcher-ui> INFO  launcher - Initializing UniFi Controller ...
+[2021-10-31T21:30:06,218] <launcher-monitor> INFO  launcher - Starting UniFi Controller ...
+[2021-10-31T21:30:06,230] <UniFi> ERROR system - [exec] error, rc=141, cmdline=[/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/bin/java, -Dfile.encoding=UTF-8, -Djava.awt.headless=true, -Dapple.awt.UIElement=true, -Dunifi.core.enabled=false, -Xmx1024M, -XX:+ExitOnOutOfMemoryError, -XX:+CrashOnOutOfMemoryError, -XX:ErrorFile=/Users/rfcb/Documents/Scripts/start_ui_controller/logs/hs_err_pid%p.log, -jar, /Users/rfcb/Documents/Scripts/start_ui_controller/lib/ace.jar, start]
+[2021-10-31T21:34:08,438] <launcher-ui> INFO  launcher - Initializing UniFi Controller ...
+[2021-10-31T21:34:08,538] <launcher-monitor> INFO  launcher - Starting UniFi Controller ...
+[2021-10-31T21:34:08,552] <UniFi> ERROR system - [exec] error, rc=141, cmdline=[/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/bin/java, -Dfile.encoding=UTF-8, -Djava.awt.headless=true, -Dapple.awt.UIElement=true, -Dunifi.core.enabled=false, -Xmx1024M, -XX:+ExitOnOutOfMemoryError, -XX:+CrashOnOutOfMemoryError, -XX:ErrorFile=/Users/rfcb/Documents/Scripts/start_ui_controller/logs/hs_err_pid%p.log, -jar, /Users/rfcb/Documents/Scripts/start_ui_controller/lib/ace.jar, start]
